@@ -1,0 +1,422 @@
+{
+  "total": 83,
+  "passed": 83,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "exists:shared/config.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists:shared/coveragefit-launch.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists:shared/score.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists:shared/script.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists:score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists:home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists:index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists:_redirects",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "score loads config before launcher",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "score loads launcher before score behavior",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "score has three CTA hooks",
+      "passed": true,
+      "detail": "3"
+    },
+    {
+      "name": "home/index.html:form launch enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html:entry distinct",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html:config before launcher",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html:launcher before script",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech/index.html:form launch enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech/index.html:entry distinct",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech/index.html:config before launcher",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech/index.html:launcher before script",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers/index.html:form launch enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers/index.html:entry distinct",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers/index.html:config before launcher",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers/index.html:launcher before script",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html:form launch enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html:entry distinct",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html:config before launcher",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html:launcher before script",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "homepage has two CoverageFit launch elements",
+      "passed": true,
+      "detail": "2"
+    },
+    {
+      "name": "homepage keeps auto bundle local",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "canonical CoverageFit URL configured",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local fallback configured",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address autocomplete module exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home address field is eligible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home loads address module before form script",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module restricts to US",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module requests address predictions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module has California bounds",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module preserves blank-key manual fallback",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Google Places key is configurable",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module has three-character threshold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module adds accessible helper",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module tracks query readiness",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module handles selected address",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Places dropdown styled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Places rows are touch friendly",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "short queries suppress predictions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "1B sprint documentation exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "1C sprint documentation exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "1D sprint documentation exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "1E sprint documentation exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address deployment checklist exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address runtime QA exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: property_formatted_address",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: property_street",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: property_city",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: property_county",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: property_state",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: property_zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: property_country",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: property_place_id",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home has structured address field: address_selection_method",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module parses address components",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module stores structured address",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module tracks autocomplete method",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module preserves manual method",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address module clears stale components",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "manual address syncs before submit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "manual address populates canonical formatted field",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "pasted addresses retain manual support",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Google loader has timeout fallback",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "address ready integration event exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher sends campaign",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher sends source",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher sends entry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher sends assessment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher sends session_id",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher supports utm_source",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher supports utm_medium",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher supports utm_campaign",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher supports utm_term",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher supports utm_content",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher supports creative",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "launcher supports referral",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
